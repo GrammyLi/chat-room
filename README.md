@@ -1,25 +1,26 @@
 # **chatRoom**
 
-### _a simple web chat room based on socketIo_
+## **技术**
 
----
-
-## **Technology stack**
+后端
 
 - python3
 
 - flask
 
-- flask_socketio
+前端
 
----
+- typescript
 
-## **UI display**
+- react
 
----
+## **截图**
 
-## **Function description**
 
-- chat, room, broadcasting
+![Alt text](./screen/4371720094359_.pic.jpg)
 
-- enter room, leave room
+
+![Alt text](./screen/4391720094413_.pic.jpg)
+
+
+ 
